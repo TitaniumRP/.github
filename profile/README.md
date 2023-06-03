@@ -7,4 +7,4 @@
 ## Useful Resources
 ### Access to our documentation will be made accessible via a Discord Forums Channel in the "Development" section.
 
-[Garry's Mod Server - Report a bug or Request a Feature](https://github.com/TitaniumRP/gmod_issues)
+[Garry's Mod Server - Submit new Bug Report or Feature Request](https://github.com/TitaniumRP/gmod_issues/issues/new/choose)
